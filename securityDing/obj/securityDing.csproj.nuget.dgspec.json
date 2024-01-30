@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\timsm\\Downloads\\sequrityTest\\securityDing\\securityDing\\securityDing.csproj": {}
+    "C:\\Users\\timsm\\Downloads\\sequrityTest\\securityDing\\securityTestDing\\securityDing\\securityDing.csproj": {}
   },
   "projects": {
-    "C:\\Users\\timsm\\Downloads\\sequrityTest\\securityDing\\securityDing\\securityDing.csproj": {
+    "C:\\Users\\timsm\\Downloads\\sequrityTest\\securityDing\\securityTestDing\\securityDing\\securityDing.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\timsm\\Downloads\\sequrityTest\\securityDing\\securityDing\\securityDing.csproj",
+        "projectUniqueName": "C:\\Users\\timsm\\Downloads\\sequrityTest\\securityDing\\securityTestDing\\securityDing\\securityDing.csproj",
         "projectName": "securityDing",
-        "projectPath": "C:\\Users\\timsm\\Downloads\\sequrityTest\\securityDing\\securityDing\\securityDing.csproj",
+        "projectPath": "C:\\Users\\timsm\\Downloads\\sequrityTest\\securityDing\\securityTestDing\\securityDing\\securityDing.csproj",
         "packagesPath": "C:\\Users\\timsm\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\timsm\\Downloads\\sequrityTest\\securityDing\\securityDing\\obj\\",
+        "outputPath": "C:\\Users\\timsm\\Downloads\\sequrityTest\\securityDing\\securityTestDing\\securityDing\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\timsm\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3hM9nAG0T7ReROPRxc2niu0pTi348+KLbD1WEJvIiY7DOCGwuoMPgCXlb22DzHFKEt3IW43YZRn/wZcfLVS/+g==",
+  "dgSpecHash": "PBsRWiHa0EluUiAgdxMqoxnMEhxCxfQH30U+P5oGMBkk6t6ce8ctWuG8ribCI1ncHRCaxe/YwWyC5VxJcJF+eg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\timsm\\Downloads\\sequrityTest\\securityDing\\securityDing\\securityDing.csproj",
+  "projectFilePath": "C:\\Users\\timsm\\Downloads\\sequrityTest\\securityDing\\securityTestDing\\securityDing\\securityDing.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\timsm\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\timsm\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
